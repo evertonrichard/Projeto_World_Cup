@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'font-paragrafo-bold';
+    src: url(assets/fontes/inter/static/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: 'font-titulo';
+    src: url(assets/fontes/titiliumweb/TitilliumWeb-Bold.ttf);
+}
+
+/* reset da pagina  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* configuração genericas que vai fazer conteudo  */
+.container-grid {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+/* começando estilização do header */
+/* realizar scroll suave na minha pagina html */
+html{
+    scroll-behavior: smooth;
+}
+
+.grupos {
+    height: 780px;
+    background-position: center;
+    background-size: cover;
+}
+
+.tittle-main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 100px;
+}
+
+.info-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.card{
+    background-color: #F4F4F4;
+    border-radius: 8px;
+    width: 384px;
+    height: 428px;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    justify-content: space-between;
+}
+.card:hover{
+    box-shadow: 15px 0px 35px;
+}
+
+.info-card {
+    color: #F4F4F4;
+    height: 60px;
+    width: 45px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 6px;
+}
+
+.info-card h2{ /*realiza a estilização do h2 dentro dos cards*/
+    font-family:inter;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 1px;
+    font-size: 26px;
+}
+.info-card p {  /*realiza a estilização do p dentro dos cards*/
+    font-family:inter;
+    font-weight: bold;
+    color: black;
+    text-align: justify;
+}
+
+
+.bottom {
+
+}
+    
