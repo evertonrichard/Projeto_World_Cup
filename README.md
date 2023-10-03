@@ -13,11 +13,11 @@ Este é um projeto desenvolvido em HTML e CSS do projeto <FORD-ENTER>. O objetiv
 
 
 ## Desenvolvimento
-Antes de iniciar o desenvolvimento, analisamos cuidadosamente o escopo do projeto para definir os principais recursos e funcionalidades.
-Utilizamos o Figma como referência visual para entender a disposição de elementos e a aparência geral do site.
-Todo o desenvolvimento do projeto é registrado no Git e hospedado no GitHub, permitindo um acompanhamento preciso das mudanças e colaboração eficiente entre a equipe.
-A equipe trabalhou em conjunto para garantir que todas as partes do projeto se integrassem de maneira harmoniosa.
-Utilizamos o Trello para gerenciar tarefas, atribuir responsabilidades e manter o controle do progresso do projeto.
+* Antes de iniciar o desenvolvimento, analisamos cuidadosamente o escopo do projeto para definir os principais recursos e funcionalidades.
+* Utilizamos o Figma como referência visual para entender a disposição de elementos e a aparência geral do site.
+* Todo o desenvolvimento do projeto é registrado no Git e hospedado no GitHub, permitindo um acompanhamento preciso das mudanças e colaboração eficiente entre a equipe.
+* A equipe trabalhou em conjunto para garantir que todas as partes do projeto se integrassem de maneira harmoniosa.
+* Utilizamos o Trello para gerenciar tarefas, atribuir responsabilidades e manter o controle do progresso do projeto.
 
 
 ## Cronograma
