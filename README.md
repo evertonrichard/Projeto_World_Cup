@@ -1,6 +1,6 @@
 # **World_Cup**
 
-Este é um projeto desenvolvido em HTML e CSS do projeto <FORD-ENTER>. O objetivo principal é a criação de um site dedicado à Copa do Mundo de Futebol. O site tem como objetivo fornecer informações relevantes sobre o evento, incluindo detalhes sobre as grupos, partidas, estádios, história e muito mais.
+Este é um projeto desenvolvido em HTML e CSS do projeto <FORD-ENTER>. O objetivo principal é a criação de um site dedicado à Copa do Mundo de Futebol. O site tem como objetivo fornecer informações relevantes sobre o evento, incluindo detalhes sobre as grupos, partidas, comentários e muito mais.
 
 ## Equipe
 * [Everton](https://github.com/evertonrichard)
